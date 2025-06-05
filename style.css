@@ -1,0 +1,22 @@
+
+h1 {
+    color: rgb(49, 37, 121);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+
+input {
+    border: 2px solid rgb(31, 49, 153);
+    border-radius: 15px;
+}
+
+button {
+    background-color: rgb(101, 81, 212);
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

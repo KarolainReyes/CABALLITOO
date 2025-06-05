@@ -76,6 +76,7 @@ Estas son las posibles combinaciones de movimiento:
 ## ✍️ Autor
 
 Este proyecto fue desarrollado con fines educativos para practicar HTML, CSS y JavaScript usando el DOM.
-Karolain Reyes
-Edgar Andres Leal
+
+* Karolain Reyes
+* Edgar Andres Leal
 
